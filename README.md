@@ -1,8 +1,7 @@
 # ticketpage_traffic_insight
 To real-time analyze the ticket page traffic
 
-Business Purpose
-================
+##Business Purpose
 Provide the seller an insight of ticket page view by answering following questions:
 
 - How many times has my ticket been browsed during a past period ?
@@ -11,14 +10,12 @@ Provide the seller an insight of ticket page view by answering following questio
 
 The system will support seller on-demand analysis and feedback the result asynchronously on near real-time basis.
 
-High Level Architecture
-=======================
+##High Level Architecture
 <br>
 ![High level architecture](docs/higharchtecture.png)
 <br>
 
-Storm Topology Workflow
-=======================
+##Storm Topology Workflow
 <br>
 ![storm topology](docs/storm-topology.png)
 <br>
