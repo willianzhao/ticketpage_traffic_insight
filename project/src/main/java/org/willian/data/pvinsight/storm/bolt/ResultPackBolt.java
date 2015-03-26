@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * Created by weilzhao on 3/15/15.
  */
-public class ResultCombineBolt extends BaseRichBolt {
+public class ResultPackBolt extends BaseRichBolt {
 
     @Override
     public void prepare(Map map, TopologyContext topologyContext, OutputCollector outputCollector) {
